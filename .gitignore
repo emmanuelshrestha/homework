@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+
+# Mac / System
+.DS_Store
+
+# Logs
+*.log
